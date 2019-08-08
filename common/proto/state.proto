@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+package dat.project;
+
+option go_package = "project.dat.works";
+option java_package = "works.dat.project";
+
+message State {
+    string state_code = 1;
+    string state_name = 2;
+    Location location = 3;
+}

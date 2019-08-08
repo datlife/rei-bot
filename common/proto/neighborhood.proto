@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package dat.project;
+
+option go_package = "project.dat.works";
+option java_package = "works.dat.project";
+
+message Neighborhood {
+    City city_name = 4;
+    State state_name = 3;
+}
