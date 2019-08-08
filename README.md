@@ -25,7 +25,7 @@ It primarily ranks neighborhood on 4.0 scale. The ranking algorithm is yet to be
 ### Back-end
 * Web Crawler
 * Spark
-
+* Mircoservice-oriented approach
 ## References:
 
 1. Ranking: https://www.biggerpockets.com/blog/2015-12-09-class-a-b-c-d-real-estate
