@@ -9,6 +9,7 @@ It primarily ranks neighborhood on 4.0 scale. The ranking algorithm is yet to be
 ## Determining Factors
 * Demographic (population growth, diversity, age distribution, martial status).
 * Economic (household income, diverse sectors).
+* Living index (weather, traffic, services).
 * Historical sales / prices.
 
 
